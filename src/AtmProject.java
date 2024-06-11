@@ -13,6 +13,9 @@ public class AtmProject {
         System.out.println("git öğrenmek çok kolay");
         // version4
 
+        System.out.println("kadir branchi kodlarını yazdı");
+        //version kdr1
+
 
     }
 
