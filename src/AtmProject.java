@@ -16,6 +16,9 @@ public class AtmProject {
         System.out.println("kadir branchi kodlarını yazdı");
         //version kdr1
 
+        System.out.println("bi kısım kodlar");
+        //kdr2
+
 
     }
 
