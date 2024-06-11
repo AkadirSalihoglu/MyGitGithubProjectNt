@@ -19,6 +19,9 @@ public class AtmProject {
         System.out.println("bi kısım kodlar");
         //kdr2
 
+        System.out.println();
+        //kdr3
+
 
     }
 
